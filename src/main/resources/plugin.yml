@@ -1,0 +1,3 @@
+name: Skyost-t3
+main: com.tenjava.entries.Skyost.t3.TenJava
+version: '${project.version}'
